@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e893535.css",
+    "main.js": "/static/js/main.dc22a6ab.js",
+    "static/media/12.jpg": "/static/media/12.73308d5a807828b0d0ea.jpg",
+    "static/media/13.jpg": "/static/media/13.a93c178e022760cd6043.jpg",
+    "static/media/14.jpg": "/static/media/14.9257c4dc009289d922fb.jpg",
+    "static/media/11.jpg": "/static/media/11.099b4942d4eb9f93920e.jpg",
+    "static/media/7.jpg": "/static/media/7.021d6c4afdf747e586ee.jpg",
+    "static/media/10.jpg": "/static/media/10.2f505528ad4f89f80453.jpg",
+    "static/media/5.jpg": "/static/media/5.ff73b8a1f6b939b66416.jpg",
+    "static/media/8.jpg": "/static/media/8.83051cebce2945c78c9d.jpg",
+    "static/media/9.jpg": "/static/media/9.65cc5b2a15b464b0513d.jpg",
+    "static/media/6.jpg": "/static/media/6.703540b3ab031751688a.jpg",
+    "static/media/4.jpg": "/static/media/4.282b5ca647065cee1a3c.jpg",
+    "static/media/1.jpg": "/static/media/1.34db9ad48ffc8be39de6.jpg",
+    "static/media/peach_glitter_nobg.png": "/static/media/peach_glitter_nobg.e0cf1fdd37a092f1f7d3.png",
+    "static/media/banner_makeovers.png": "/static/media/banner_makeovers.fff815a581793a7380fb.png",
+    "static/media/banner_hair.png": "/static/media/banner_hair.5a27fc4e4533e57e4676.png",
+    "static/media/banner_face.png": "/static/media/banner_face.eed7197157196f319b17.png",
+    "static/media/slider_back.png": "/static/media/slider_back.7ae2da55d0510c5669b8.png",
+    "static/media/3.jpg": "/static/media/3.e763f51b2357e10c2a7c.jpg",
+    "static/media/exclusive_image.png": "/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/product_4.png": "/static/media/product_4.ea0420ca9cec08d6df05.png",
+    "static/media/product_2.png": "/static/media/product_2.d4e74f367160ec10fb34.png",
+    "static/media/product_1.png": "/static/media/product_1.5a757396ee7ff5dd91c1.png",
+    "static/media/product_3.png": "/static/media/product_3.be48863df18b272b8f59.png",
+    "static/media/footer_back.jpeg": "/static/media/footer_back.c121b929a148e93b37e6.jpeg",
+    "static/media/logo.png": "/static/media/logo.5e54de1a59a52fdba7f2.png",
+    "index.html": "/index.html",
+    "main.2e893535.css.map": "/static/css/main.2e893535.css.map",
+    "main.dc22a6ab.js.map": "/static/js/main.dc22a6ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e893535.css",
+    "static/js/main.dc22a6ab.js"
+  ]
+}
